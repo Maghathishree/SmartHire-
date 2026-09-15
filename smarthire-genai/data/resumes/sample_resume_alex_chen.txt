@@ -1,0 +1,42 @@
+Alex Chen
+Email: alex.chen.dev@example.com | Phone: (555) 234-5678 | GitHub: github.com/alexchen | LinkedIn: linkedin.com/in/alexchen-tech
+Location: San Jose, CA
+
+SUMMARY
+Dedicated Computer Science senior with hands-on experience in Python backend development, REST APIs, and relational databases. Passionate about machine learning pipelines, cloud microservices, and building automated data-driven web applications.
+
+EDUCATION
+Bachelor of Technology in Information Technology
+Apex Institute of Technology, Graduating May 2025
+CGPA: 8.8/10
+Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Operating Systems, Machine Learning Foundations, Web Technologies.
+
+TECHNICAL SKILLS
+- Languages: Python, Java, JavaScript, SQL
+- Frameworks & Libraries: FastAPI, Flask, Pandas, Scikit-learn, React, LangChain
+- Developer Tools: Git, GitHub, Docker, Postman, VS Code, Linux
+- Databases: PostgreSQL, SQLite, Redis
+
+PROJECTS
+Smart Data Query Assistant | Python, FastAPI, LangChain, PostgreSQL
+- Built a natural language database querying tool allowing users to query SQL tables in plain English.
+- Reduced manual reporting turnaround time by 40% for college department records.
+- Implemented FAISS vector search to index relational schema definitions for context retrieval.
+
+Real-Time Campus Event Hub | React, Node.js, Express, MongoDB
+- Developed a full-stack progressive web application connecting 3,500+ active university students.
+- Designed REST endpoints with JWT authentication and role-based access control.
+
+EXPERIENCE
+Software Engineering Intern | ByteCraft Labs | June 2024 – August 2024
+- Assisted backend team in migrating legacy Flask microservices to asynchronous FastAPI, improving response latency by 22%.
+- Wrote automated unit tests with Pytest achieving 85% test coverage on authentication modules.
+- Created interactive API documentation with Swagger / OpenAPI specifications.
+
+Campus Technical Lead | Google Developer Student Club | August 2023 – May 2024
+- Organized 6 hands-on workshops on Python, Git, and Generative AI attended by 200+ students.
+- Mentored 15 junior students in debugging data structure algorithms and project architecture.
+
+CERTIFICATIONS
+- Python for Data Science and Machine Learning Bootcamp (Udemy, 2023)
+- AWS Certified Cloud Practitioner Foundational (In progress)

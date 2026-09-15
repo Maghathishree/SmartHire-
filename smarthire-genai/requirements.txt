@@ -1,0 +1,28 @@
+# SmartHire GenAI — Dependencies
+# Tested with Python 3.10+ and Streamlit Community Cloud
+
+streamlit>=1.35.0
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Gemini & LangChain ecosystem
+google-genai>=0.1.1
+google-generativeai>=0.7.0
+langchain>=0.2.6
+langchain-core>=0.2.11
+langchain-community>=0.2.6
+langchain-google-genai>=1.0.6
+
+# Vector Database & Embeddings
+faiss-cpu>=1.8.0
+tiktoken>=0.7.0
+
+# Document Parsing
+pypdf>=4.2.0
+python-docx>=1.1.2
+
+# Notebooks & Testing
+jupyter>=1.0.0
+pytest>=8.2.0

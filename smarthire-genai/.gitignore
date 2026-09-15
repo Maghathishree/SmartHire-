@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Secrets
+.env
+.env.local
+
+# FAISS Vector Index (persisted locally during run, can be rebuilt)
+vectorstore/*.faiss
+vectorstore/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit temporary data
+.streamlit/secrets.toml
